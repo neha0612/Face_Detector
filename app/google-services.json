@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720211958212",
+    "project_id": "face-detection-mlkit-app-c62f9",
+    "storage_bucket": "face-detection-mlkit-app-c62f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720211958212:android:a73aedb128cea7e389ac91",
+        "android_client_info": {
+          "package_name": "com.neha.facedetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720211958212-u6a49gj77qj2clvt5kmr9ndntp04g8en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe_ZaHfVOVbCOL-Z_M9ME-VVn7qmWaOJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720211958212-u6a49gj77qj2clvt5kmr9ndntp04g8en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
